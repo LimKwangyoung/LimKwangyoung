@@ -13,6 +13,4 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
 
-<div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokoz22)](https://solved.ac/kokoz22/)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kokoz22)](https://solved.ac/kokoz22/)`
